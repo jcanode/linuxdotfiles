@@ -103,6 +103,13 @@ alias doc='cd ~/Documents'
 alias notion='~/dotfiles/dotfiles/notion.sh'
 alias i3edit='vim ~/.config/i3/config'
 alias vimedit='vim ~/.vimrc'
+alias google='ddgr'
+alias googler='ddgr'
+alias python='python3'
+alias ex='exit'
+alias ld='ls -d */'
+alias discordcli='cordless'
+alias findpid='ps -aux | grep'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
@@ -118,3 +125,6 @@ fi
 #if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 #    . /etc/bash_completion
 #fi
+
+
+#. /home/justin/torch/install/bin/torch-activate
